@@ -1,6 +1,6 @@
 # Zaulo Ramirez | Software Architecture ⚙️
 
-¡Hola! Soy un desarrollador enfocado en el diseño de sistemas eficientes, procesamiento de datos y arquitecturas escalables. Me apasiona estructurar código limpio, optimizar entornos y resolver problemas complejos mediante buenas prácticas de ingeniería.
+¡Hola! Soy estudiante de Ingeniería en Software cursando 4to semestre. Me apasiona el diseño de sistemas eficientes, el procesamiento de datos y la creación de soluciones escalables. Disfruto estructurar código limpio, optimizar entornos y resolver problemas mediante buenas prácticas de desarrollo e ingeniería de software.
 
 ---
 
